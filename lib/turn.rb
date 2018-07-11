@@ -52,3 +52,5 @@ def turn(board)
   move(board, index, current_player = "X")
   display_board(board)
 end
+
+# Alternate Solution
